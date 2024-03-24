@@ -1,0 +1,16 @@
+Numero de Passos: 125
+
+Tempo de Execução: 551 ou 550515429
+Numero de Passos: 625
+
+Tempo de Execução: 2558 ou 2558980680
+Numero de Passos: 3125
+
+Tempo de Execução: 17316 ou 17324215229
+Numero de Passos: 15625
+
+Tempo de Execução: 87406 ou 87439400399
+CONSTRUÍDO COM SUCESSO (tempo total: 1 minuto 47 segundos)
+
+
+
